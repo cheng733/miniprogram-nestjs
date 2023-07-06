@@ -1,0 +1,2 @@
+const token = '';
+export { token };
